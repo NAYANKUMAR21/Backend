@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onClick="main()">GET</button>
+    <div id="container">
+
+    </div>
+</body>
+</html>
+<script>
+    async function main(){
+        console.log("nayan index.html")
+        let res = fetch("http://localhost:8000")
+        let data = res.json()
+        const container = document.querySelector('#container');
+        const h1 = document.createElement('h1');
+        ht.innerText = data[0].id
+        container.append(h1)
+    }
+</script>

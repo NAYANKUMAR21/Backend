@@ -1,0 +1,23 @@
+{
+  "post": [
+    {
+      "name":"amar",
+      "gender":"female",
+      "surname":"hancahte",
+      "age":21
+
+      },{
+      "name":"nayan",
+      "surname":"hancahte",
+      "gender":"male"
+    },{
+      "name":"nayan",
+      "surname":"hancahte",
+      "gender":"male"
+    },{
+      "name":"nayan",
+      "surname":"hancahte",
+      "gender":"male"
+    }
+      ]
+}

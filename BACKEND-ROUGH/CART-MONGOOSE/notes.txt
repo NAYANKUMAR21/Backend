@@ -1,0 +1,8 @@
+PORT = 8080
+DB_URL =  mongodb+srv://nayan:12345@cluster0.etfwaib.mongodb.net/B20?retryWrites=true&w=majority
+
+
+with this i can change the B20 to cart and use all the data bases with respective name and their collection name
+else have to create new atlas and put it with the compass and and create new database with collection name and 
+populate in compass by importing and the back to atlas and take connect to application link and paste it in env 
+file DB_URL so that easy follow is optained

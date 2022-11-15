@@ -1,0 +1,14 @@
+{
+  "name": "http-pre",
+  "version": "1.0.0",
+  "description": "\"demo http basic\"",
+  "main": "index.js",
+  "scripts": {
+    "serve":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

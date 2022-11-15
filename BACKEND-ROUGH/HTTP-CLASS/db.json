@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "content": " new product" },
+    { "id": 1, "content": " new product" },
+    { "id": 1, "content": " new product" },
+    { "id": 1, "content": " new product" }
+  ],
+  "users": [
+    { "name": "nayan", "author": "mac OS" },
+    { "name": "nayan", "author": "mac OS" }
+  ]
+}
